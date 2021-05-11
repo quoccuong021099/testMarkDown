@@ -83,8 +83,15 @@ function add(a, b) {
 }
 ```
 
+<!--? Table  -->
+
+| Name | Email |
+| ---- | ----- |
+| John | Email |
+| Doe  | Email |
+
 <!--? Task list  -->
 
 1. [x] Danh sách
 2. [x] Số lượng
-3. [] Họ tên
+3. [ ] Họ tên
